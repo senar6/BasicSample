@@ -32,6 +32,7 @@ import java.util.Calendar;
  * An {@link Activity} that represents an input form page where the user can provide his name, date
  * of birth and email address. The personal information can be saved to {@link SharedPreferences}
  * by clicking a button.
+ * Test 2
  */
 public class MainActivity extends Activity {
 
